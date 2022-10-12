@@ -1,0 +1,28 @@
+Similarity:
+We used the similarity principle in the "View Charts" page.
+The similarity principle states that when things appear to be similar to each other we group them together and tend to think they have the same function.
+On the "View Charts" page, the user sees two dropdown menus, one input field for stock symbol and another one for index symbol.
+The dropdown menus are similar to each other visually, so do the input fields.
+Not only are these two groups similar in design, they also have similar function.
+Thus, the similarity principle is applied.
+
+Proximity:
+We used the proximity principle in the "Trade Stocks" page.
+The proximity principle states that things that are close together appear to be more related than things that are spaced farther apart.
+We put the input fields closed together because they should be seen as a group.
+We do not want the user to only fill out part of these fields, rather we want all of them to be filled.
+As a result, we grouped the input fields together to ensure that the user sees them as one group.
+Thus, the proximity principle is applied.
+
+Common region:
+We applied the common region principle in a variety of places.
+The common region principle states that when objects are located within the same closed region we perceive them as being grouped together.
+It is most apparent in the reports for administrators. We utilize tables to show each users' stocks holding and Sharpe ratio.
+Using a table makes the display more organized and uses the common region principle.
+
+Closure:
+We applied the closure principle in the "View Portfolio" page.
+The closure principle states that when we look at a complex arrangement of visual elements we tend to look for a single, recognizable pattern.
+Even though the risk profile statistics are not organized into a formal table, the user still sees them as grouped together.
+The closure principle helps the user see them as a group, even though the statistics are technically separate.
+
